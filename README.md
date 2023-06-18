@@ -1,7 +1,7 @@
 # in-silico-FSHD-muscle-fiber-tools
 
-Shiny tools implementing the model from the eLife article: An in silico FSHD muscle fibre for modelling DUX4 dynamics and predicting the impact of therapy (https://elifesciences.org/articles/88345).
-These tools allow the pre-screening of theraputic stratergies via the modification of model parameters.
+Shiny tool implementations of the model from the eLife article: An in silico FSHD muscle fibre for modelling DUX4 dynamics and predicting the impact of therapy (https://elifesciences.org/articles/88345).
+These tools allow the pre-screening of theraputic strategies via the modification of model parameters.
 
 Web applications of the tools are hosted at:
 
